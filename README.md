@@ -1,6 +1,8 @@
 ### 
 
 <p align="center">
+  <img src="https://media4.giphy.com/media/hbMEVoYDM3aIE/giphy.gif" width="30%" height="30%">
+  <br/>
   <samp>
     Danial Malik
   </samp>
@@ -14,6 +16,9 @@
 - 🔭 I’m currently working on Open edX and JS projects
 - 🌱 I’m currently learning JS, NodeJS, React, Redux and GraphQL in some time.
 - 👯 I’m looking to collaborate on JS/NodeJS related projects
+
+  
+![Danial's Github Stats](https://github-readme-stats.vercel.app/api?username=danialmalik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 <p align="center"> 
