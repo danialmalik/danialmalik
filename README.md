@@ -72,19 +72,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danialmalik&show_icons=true&theme=radical&hide_border=true" alt="Danial's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialmalik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danialmalik&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=danialmalik&color=blueviolet" alt="Profile Views" />
 </div>
